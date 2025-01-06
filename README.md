@@ -1,4 +1,4 @@
-<h1>Gemi Slice | Gemini Snippet on Search ✨</h1>
+<h1>Gemi Slices | The b̶e̶s̶t̶ way to search for anything on Google ✨</h1>
 
 <h2>Table of Contents</h2>
 <ol>
@@ -31,7 +31,7 @@
 <h2 id="start-the-project">Start the project</h2>
 
 <h3>Quick open</h3>
-<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fsnapverse%2Fgemini-snippet-monorepo">
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fsnapverse%2Fgemi-slices">
   <img
     height="32"
     alt="Open in IDX"
@@ -45,9 +45,9 @@
 <h4>Clone it</h4>
 <pre lang="bash">
 <code>
-git clone https://github.com/snapverse/gemini-snippet-monorepo.git
+git clone https://github.com/snapverse/gemi-slices.git
 # or
-gh repo clone snapverse/gemini-snippet-monorepo
+gh repo clone snapverse/gemi-slices
 </code>
 </pre>
 
@@ -89,11 +89,11 @@ pnpm run api:develop
 </ul>
 
 <h2 id="support">Support</h2>
-<p>If you encounter any issues or have questions, feel free to <a href="https://github.com/snapverse/gemini-snippet-monorepo/issues">open an issue</a> on GitHub.</p>
+<p>If you encounter any issues or have questions, feel free to <a href="https://github.com/snapverse/gemi-slices/issues">open an issue</a> on GitHub.</p>
 <p>You can also reach out to our support team at <a href="mailto:support@example.com">support@example.com</a>.</p>
 
 <h2 id="contributing">Contributing</h2>
-<p>We are excited to see your contributions! Please read our <a href="https://github.com/snapverse/gemini-snippet-monorepo/blob/main/CONTRIBUTING.md">contributing guidelines</a> before submitting a pull request.</p>
-<p>Check out the <a href="https://github.com/snapverse/gemini-snippet-monorepo/pulls">open pull requests</a> and feel free to join the conversation!</p>
+<p>We are excited to see your contributions! Please read our <a href="https://github.com/snapverse/gemi-slices/blob/main/CONTRIBUTING.md">contributing guidelines</a> before submitting a pull request.</p>
+<p>Check out the <a href="https://github.com/snapverse/gemi-slices/pulls">open pull requests</a> and feel free to join the conversation!</p>
 
-<p>❤ Happy Coding!</p>
+<p>🫡 Happy Coding!</p>
