@@ -1,4 +1,6 @@
-<h1>Gemi Slices | The b̶e̶s̶t̶ way to search for anything on Google ✨</h1>
+<h1>Gemi Slices ✂️</h1>
+
+The b̶e̶s̶t̶ way to search for anything on Google ✨
 
 <h2>Table of Contents</h2>
 <ol>
