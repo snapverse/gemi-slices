@@ -13,7 +13,7 @@ The b̶e̶s̶t̶ way to search for anything on Google ✨
 </ol>
 
 <h2 id="overview">Overview</h2>
-<p>The easiest way to find your code solutions in Google Chrome.</p>
+<p>The b̶e̶s̶t̶ way to search for anything on Google ✨</p>
 <p><b>Gemi Slice</b> is a Chrome extension designed to enhance your programming workflow. It automatically generates and displays relevant code snippets directly in your Google search results whenever you perform a programming-related query. With features like instant code copying, code explanation via text-to-speech, and the ability to regenerate snippets, this extension saves you time and helps you better understand the code you’re working with. Perfect for both learners and experienced developers, Gemini Snippet on Search makes coding more accessible and efficient.</p>
 
 <h2 id="how-to-use-it">How to use it</h2>
